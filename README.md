@@ -1,9 +1,9 @@
 # WRO Future Engineers 2025 – Self-Driven Vehicle Project
 
 ## Team Information
-**Team Name:** Future Engineers  
+**Team Name:** Not set yet  
 **Team Members:** Mohd Attili, Karam Amr
-**School / City:** [اكتب المدرسة والمدينة]  
+**School / City:** Tulkarm / Tulkarm Secondary Vocational School
 **Season:** 2025  
 **Competition:** WRO Future Engineers  
 
