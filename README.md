@@ -2,10 +2,11 @@
 
 ## Team Information
 **Team Name:** Not set yet  
-**Team Members:** Mohd Attili, Karam Amr
-**School / City:** Tulkarm / Tulkarm Secondary Vocational School
+**Team Members:** Mohd Attili, Karam Amr  
+**City:** Tulkarm  
+**School:** Tulkarm Secondary Vocational School
 **Season:** 2025  
-**Competition:** WRO Future Engineers  
+**Competition:** WRO - Future Engineers  
 
 ---
 
