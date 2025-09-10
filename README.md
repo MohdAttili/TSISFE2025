@@ -23,3 +23,4 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 3. Develop modular and maintainable code to control all vehicle components.  
 4. Document all aspects of the vehicle's design, construction, and programming.  
 5. Provide clear and detailed engineering materials to facilitate understanding and replication.  
+6.
