@@ -1,1 +1,1 @@
-This folder contains 3D models, laser cutting or CNC files for vehicle elements
+This folder contains a number of 3D models that we printed to fit the pre-prepared chassis
