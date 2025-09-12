@@ -1,10 +1,10 @@
 # WRO Future Engineers 2025 – Self-Driven Vehicle Project
 
 ## Team Information
-**Team Name:** Toreyah
-**Team Members:** Mohd Attili, Karam Amr ,Osama Husam
+**Team Name:** Toreyah  
+**Team Members:** Mohd Attili, Karam Amr ,Osama Husam  
 **City:** Tulkarm  
-**School:** Tulkarm Secondary Industral School
+**School:** Tulkarm Secondary Industral School  
 **Season:** 2025  
 **Competition:** WRO - Future Engineers  
 
