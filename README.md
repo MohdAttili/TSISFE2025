@@ -1,8 +1,8 @@
 # WRO Future Engineers 2025 – Self-Driven Vehicle Project
 
 ## Team Information
-**Team Name:** Byte Force  
-**Team Members:** Mohd Attili, Karam Amr  
+**Team Name:** Toreyah
+**Team Members:** Mohd Attili, Karam Amr ,Osama Husam
 **City:** Tulkarm  
 **School:** Tulkarm Secondary Industral School
 **Season:** 2025  
@@ -23,4 +23,4 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 3. Develop modular and maintainable code to control all vehicle components.  
 4. Document all aspects of the vehicle's design, construction, and programming.  
 5. Provide clear and detailed engineering materials to facilitate understanding and replication.  
-6.
+
