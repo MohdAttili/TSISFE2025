@@ -48,6 +48,6 @@ char getObstcaleColor(){
 void loop() {
   
   Serial.println(getObstcaleColor());
-  delay(200)
+  delay(200);
   
 }
