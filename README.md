@@ -1,4 +1,4 @@
-# WRO-FUTURE-ENGINEERS-2025 - TEAM tuteah
+# WRO-FUTURE-ENGINEERS-2025 - TEAM TUREAH
 <p align="center">
 <img src="t-photos/طورية.png" alt="Team Photo" style="width:300px; height:200px;">
 </p>
@@ -22,3 +22,7 @@ An autonomous vehicle designed for the Future Engineers category of the WRO 2025
 📁 **src** → control software  
 📁 **models** → 3D printing / laser cutting / CNC files  
 📁 **other** → documentation and additional resources  
+## Project Overview
+This repository contains all the engineering materials, code, schematics, and models related to our self-driven vehicle, designed and built to participate in the WRO Future Engineers 2025 competition. The project aims to develop an autonomous vehicle capable of navigating a predefined course while demonstrating precision, stability, and effective control of electromechanical components.
+
+Our vehicle is a compact, versatile model incorporating both mechanical and electronic systems. It is designed to efficiently demonstrate autonomous navigation using sensors, motor control, and a central microcontroller. The design and implementation of this project involved detailed planning, testing, and iterative improvements to meet the strict requirements of the competition.
