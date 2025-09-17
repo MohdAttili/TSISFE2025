@@ -36,7 +36,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 
 ## ⚙️ Physical Equipment 
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: right; gap: 20px;">
 
   <div>
     
