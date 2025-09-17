@@ -1,6 +1,6 @@
-# WRO-FUTURE-ENGINEERS-2025 - TEAM APOLLO
+# WRO-FUTURE-ENGINEERS-2025 - TEAM tuteah
 <p align="center">
-<img src="t-photos/طورية.png" alt="Team Photo" style="width:300px; height:200px; border-radius:2000000px;">
+<img src="t-photos/طورية.png" alt="Team Photo" style="width:300px; height:200px;">
 </p>
 
 
