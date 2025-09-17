@@ -1,7 +1,7 @@
 # WRO-FUTURE-ENGINEERS-2025 - TEAM APOLLO
-
-<img src="t-photos/طورية.png" alt="Team Photo" style="width:300px; height:200px; border-radius:20px;">
-
+<p align="center">
+<img src="t-photos/طورية.png" alt="Team Photo" style="width:300px; height:200px; border-radius:200px;">
+</p>
 
 
 ---
