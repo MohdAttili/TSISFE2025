@@ -1,6 +1,6 @@
 # WRO-FUTURE-ENGINEERS-2025 - TEAM TUREAH
 <p align="center">
-<img src="t-photos/طورية.png" alt="Team Photo" style="width:300px; height:200px;">
+<img src="v-photos/طورية.png" alt="Team Photo" style="width:300px; height:200px;">
 </p>
 
 
