@@ -41,7 +41,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 3. Offers around 34 programmable GPIO pins and interfaces like SPI, I2C,  UART, PWM, and I2S, with ADC/DAC support.  
 4. Supports dual connectivity, multiple protocols, and has a large  community with ready-to-use libraries.  
 5. Common applications include robotics, smart home systems, remote   measurement/control devices, and IoT data collection.  
-**2.L298N (Motor Driver Module) Overview**
+**2. 🤖 L298N (Motor Driver Module) Overview**
 1. The L298N is a dual H-bridge motor driver used to control the speed and direction of DC and stepper motors.
 2. Supports motor voltages from 5V to 35V and currents up to 2A per channel.
 3. Motor direction is controlled via IN1–IN4 pins and speed via PWM (ENA/ENB pins).
