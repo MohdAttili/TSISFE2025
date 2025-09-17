@@ -1,8 +1,9 @@
 # WRO-FUTURE-ENGINEERS-2025 - TEAM APOLLO
 
-<img src="t-photos/طورية.png" alt="Team Photo" width="400"/>
+<p align="center">
+  <img src="t-photos/طورية.png" alt="Team Photo" width="400"/>
+</p>
 
-An autonomous vehicle designed for the Future Engineers category of the WRO 2025 that uses computer vision and IMU sensors to navigate complex environments and avoid obstacles intelligently.
 
 ---
 
@@ -11,6 +12,7 @@ An autonomous vehicle designed for the Future Engineers category of the WRO 2025
 <img src="v-photos/vehicle.png" alt="Vehicle Photo" width="500"/>
 
 ---
+An autonomous vehicle designed for the Future Engineers category of the WRO 2025 that uses computer vision and IMU sensors to navigate complex environments and avoid obstacles intelligently.
 
 ## Content Structure
 
