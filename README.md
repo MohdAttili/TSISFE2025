@@ -33,4 +33,9 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 3. Develop modular and maintainable code to control all vehicle components.  
 4. Document all aspects of the vehicle's design, construction, and programming.  
 5. Provide clear and detailed engineering materials to facilitate understanding and replication.  
+   <p>
+  <img src="v-photos/لوحه.png" alt="My Emoji" style="width:20px; height:20px; vertical-align:middle; margin-right:5px;">
+  **ESP32-WROOM-32 Overview**
+</p>
+
 
