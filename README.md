@@ -62,3 +62,10 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 3. Built-in processor allows real-time object recognition and can track multiple objects simultaneously.
 4. Sends object coordinates directly to microcontrollers like Arduino or ESP32, reducing main board load.
 5. Common applications include line-following robots, object detection/sorting, interactive projects, and educational AI experiments.
+
+**5. 🚗 LEGO Wheel Ø56 with Medium Azure Tire Overview**
+1. LEGO Technic wheel with a 56 mm diameter and medium azure rubber tire.
+2. Part numbers: 39367 (wheel) and 1282073 (tire).
+3. Designed for medium-sized LEGO vehicles and robots.
+4. Durable and easy to fit with LEGO axles, providing reliable traction.
+5. Common uses: LEGO Mindstorms robots, Spike Prime projects, and DIY educational builds.
