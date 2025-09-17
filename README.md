@@ -34,7 +34,25 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 4. Document all aspects of the vehicle's design, construction, and programming.  
 5. Provide clear and detailed engineering materials to facilitate understanding and replication.  
 
-## ⚙️ Physical Equipment <p align="right">
+## ⚙️ Physical Equipment 
+
+<div style="display: flex; align-items: center; gap: 20px;">
+
+  <div>
+    
+**1. 🧠 ESP32-WROOM-32 Overview**  
+ESP32-WROOM-32 is a microcontroller by Espressif with Wi-Fi and Bluetooth, commonly used in smart devices and robotics.  
+It features a dual-core Xtensa 32-bit LX6 processor up to 240 MHz, with 520 KB SRAM and 4 MB Flash.  
+Offers around 34 GPIO pins, multiple interfaces, and supports ADC/DAC.  
+Applications include robotics, IoT, and smart systems.  
+
+  </div>
+
+  <img src="t-photos/لوحة2.png" alt="لوحة" style="width:250px; height:160px; border-radius:10px;"/>
+
+</div>
+
+<!-- ## ⚙️ Physical Equipment <p align="right">
 <img src="t-photos/لوحة2.png" alt="لوحة" style="width:300px; height:200px;">
 </p>
 **1. 🧠 ESP32-WROOM-32 Overview**  
@@ -43,7 +61,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 3. Offers around 34 programmable GPIO pins and interfaces like SPI, I2C,  UART, PWM, and I2S, with ADC/DAC support.  
 4. Supports dual connectivity, multiple protocols, and has a large  community with ready-to-use libraries.  
 5. Common applications include robotics, smart home systems, remote   measurement/control devices, and IoT data collection.  
-                   
+                    -->
 **2. 🤖 L298N (Motor Driver Module) Overview**
 1. The L298N is a dual H-bridge motor driver used to control the speed and direction of DC and stepper motors.
 2. Supports motor voltages from 5V to 35V and currents up to 2A per channel.
