@@ -48,3 +48,10 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 3. Motor direction is controlled via IN1–IN4 pins and speed via PWM (ENA/ENB pins).
 4. Features include independent dual motor control, built-in heat sink, and easy interfacing with Arduino, ESP32, and Raspberry Pi.
 5. Commonly used in robotics, motorized DIY projects, and stepper motor control for small CNC machines or 3D printers.
+
+**3. VL53LXX-V2 (Time-of-Flight Distance Sensor) Overview**     
+1. The VL53L0X/VL53L1X is a Time-of-Flight (ToF) distance sensor that measures distance using laser light.
+2. Measurement range: VL53L0X ~30 mm–2 m, VL53L1X ~30 mm–4 m with typical accuracy ±3%.
+3. Uses I²C interface, supports multiple sensors on the same bus, with power supply 2.6–3.5V.
+4. Features include fast and accurate distance measurement, non-contact sensing, low power consumption, and works in various lighting conditions.
+5. Common applications: robotics obstacle detection, drones, gesture/proximity sensing, level measurement, and automated safety systems.
