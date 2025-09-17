@@ -49,9 +49,16 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 4. Features include independent dual motor control, built-in heat sink, and easy interfacing with Arduino, ESP32, and Raspberry Pi.
 5. Commonly used in robotics, motorized DIY projects, and stepper motor control for small CNC machines or 3D printers.
 
-**3. VL53LXX-V2 (Time-of-Flight Distance Sensor) Overview**     
+**3. 📏 VL53LXX-V2 (Time-of-Flight Distance Sensor) Overview**     
 1. The VL53L0X/VL53L1X is a Time-of-Flight (ToF) distance sensor that measures distance using laser light.
 2. Measurement range: VL53L0X ~30 mm–2 m, VL53L1X ~30 mm–4 m with typical accuracy ±3%.
 3. Uses I²C interface, supports multiple sensors on the same bus, with power supply 2.6–3.5V.
 4. Features include fast and accurate distance measurement, non-contact sensing, low power consumption, and works in various lighting conditions.
 5. Common applications: robotics obstacle detection, drones, gesture/proximity sensing, level measurement, and automated safety systems.
+     
+**4.🎥 Pixy 2.1 (CMUcam5) Overview**
+1. The Pixy 2.1 is a smart vision sensor that detects and tracks objects by color or shape.
+2. Resolution: 320×200 pixels, frame rate up to 60 fps, with interfaces SPI, I²C, UART, and USB.
+3. Built-in processor allows real-time object recognition and can track multiple objects simultaneously.
+4. Sends object coordinates directly to microcontrollers like Arduino or ESP32, reducing main board load.
+5. Common applications include line-following robots, object detection/sorting, interactive projects, and educational AI experiments.
