@@ -34,7 +34,9 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 4. Document all aspects of the vehicle's design, construction, and programming.  
 5. Provide clear and detailed engineering materials to facilitate understanding and replication.  
 
-## ⚙️ Physical Equipment
+## ⚙️ Physical Equipment <p align="right">
+<img src="t-photos/لوحة2.png" alt="لوحة" style="width:300px; height:200px;">
+</p>
 **1. 🧠 ESP32-WROOM-32 Overview**  
 1. ESP32-WROOM-32 is a microcontroller by Espressif with Wi-Fi and Bluetooth, commonly used in smart devices and robotics.
 2. It features a dual-core Xtensa 32-bit LX6 processor up to 240 MHz, with 520 KB SRAM and 4 MB Flash.
