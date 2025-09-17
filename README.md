@@ -35,15 +35,11 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 5. Provide clear and detailed engineering materials to facilitate understanding and replication.  
 
 
-**🧠 ESP32-WROOM-32 Overview**
-ESP32-WROOM-32 is a microcontroller by Espressif with Wi-Fi and Bluetooth, commonly used in smart devices and robotics.
-
-It features a dual-core Xtensa 32-bit LX6 processor up to 240 MHz, with 520 KB SRAM and 4 MB Flash.
-
-Offers around 34 programmable GPIO pins and interfaces like SPI, I2C,  UART, PWM, and I2S, with ADC/DAC support.  
-
-Supports dual connectivity, multiple protocols, and has a large  community with ready-to-use libraries.  
-  
-Common applications include robotics, smart home systems, remote   measurement/control devices, and IoT data collection.  
+**🧠 ESP32-WROOM-32 Overview**  
+1. ESP32-WROOM-32 is a microcontroller by Espressif with Wi-Fi and Bluetooth, commonly used in smart devices and robotics.
+2. It features a dual-core Xtensa 32-bit LX6 processor up to 240 MHz, with 520 KB SRAM and 4 MB Flash.
+3. Offers around 34 programmable GPIO pins and interfaces like SPI, I2C,  UART, PWM, and I2S, with ADC/DAC support.  
+4. Supports dual connectivity, multiple protocols, and has a large  community with ready-to-use libraries.  
+5. Common applications include robotics, smart home systems, remote   measurement/control devices, and IoT data collection.  
 
 
