@@ -136,7 +136,10 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 2. Include beams, liftarms, axles, connectors, gears, pulleys, pins, and bushings.
 3. Provide the structural framework and enable integration of motors, sensors, and controllers.
 4. Designed for reusability and compatibility with LEGO EV3 robotics kits.
-5. Commonly used for creating chassis, motion systems, and custom robotic designs.      
+5. Commonly used for creating chassis, motion systems, and custom robotic designs.    
+
+[More Details about the Components]()
+
  
  <p align="center">
   <img src="v-photos/لوحة2.png" alt="Image 1" width="90"/>
