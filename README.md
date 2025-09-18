@@ -114,7 +114,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 
 ## Robot Videos  
 <p align="center">
-  <img src="v-photos/طورية22.png" alt="Image 1" width="200"/>
-  <img src="v-photos/طورية22.png" alt="Image 2" width="200"/>
+  <img src="v-photos/طورية22.png" alt="Image 1" width="400"/>
+  <img src="v-photos/طورية22.png" alt="Image 2" width="400"/>
 </p>
 
