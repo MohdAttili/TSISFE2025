@@ -36,7 +36,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
   <img src="t-photos/اسامة1.jpeg" alt="Image 3" width="240" height="350"/> -->
 
 
-<img src="t-photos/كريم.jpg" alt="Kareem" width="240" style="height:300px; object-fit: cover;"/>
+<img src="t-photos/كريم.jpg" alt="Kareem" width="240" style="height:auto; object-fit: cover;"/>
 <img src="t-photos/عتيلي.jpg" alt="Attili" width="240"/>
 <img src="t-photos/اسامة1.jpeg" alt="Osama" width=240 style="height:auto; object-fit: cover;"/>
 
