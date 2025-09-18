@@ -91,3 +91,14 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 3. Provide the structural framework and enable integration of motors, sensors, and controllers.
 4. Designed for reusability and compatibility with LEGO EV3 robotics kits.
 5. Commonly used for creating chassis, motion systems, and custom robotic designs.      
+ 
+ <p align="center">
+  <img src="v-photos/لوحة2.png" alt="Image 1" width="100"/>
+  <img src="v-photos/عجل.png" alt="Image 2" width="100"/>
+  <img src="v-photos/ليجو44.png" alt="Image 3" width="100"/>
+  <img src="v-photos/ماتور.png" alt="Image 4" width="100"/>
+  <img src="v-photos/vl53lxx_sensor_high_res_dramatic.png" alt="Image 5" width="100"/>
+  <img src="v-photos/l298n_motor_driver_high_res_dramatic.pngg" alt="Image 6" width="100"/>
+  <img src="v-photos/motor_high_res_dramatic.png" alt="Image 7" width="100"/>
+  <img src="v-photos/pixy_camera_high_res_dramatic.png" alt="Image 8" width="100"/>
+</p>
