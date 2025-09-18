@@ -31,7 +31,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 
 <p align="center">
   <!-- <img src="t-photos/الكل.jpg" alt="Image 1" width="500"/> -->
-  <img src="t-photos/كريم.jpg.jpg" alt="Image 1" width="240" height="300"/>
+  <img src="t-photos/كريم.jpg" alt="Image 1" width="240" height="300"/>
   <img src="t-photos/عتيلي.jpg" alt="Image 2" width="240" height="350"/>
   <img src="t-photos/اسامة1.jpeg" alt="Image 3" width="240" height="350"/>
 </p>
