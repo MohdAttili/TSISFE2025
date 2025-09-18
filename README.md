@@ -28,31 +28,27 @@ This repository contains all the engineering materials, code, schematics, and mo
 Our vehicle is a compact, versatile model incorporating both mechanical and electronic systems. It is designed to efficiently demonstrate autonomous navigation using sensors, motor control, and a central microcontroller. The design and implementation of this project involved detailed planning, testing, and iterative improvements to meet the strict requirements of the competition.
 ## -------------------------------------------------------------------------------------
 ## Who We Are
-<!-- 
-<p align="center">
+
+<!-- <p align="center">
 <img src="t-photos/كريم2.jpg" alt="Kareem" width="240" />
 <img src="t-photos/عتيلي.jpg" alt="Attili" width="240"/>
 <img src="t-photos/1758203185245.jpeg" alt="Osama" width=240/>
 </p> -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center;">
 
-  <div style="width: 240px; height: 350px; overflow: hidden;">
-    <img src="t-photos/كريم2.jpg" alt="Kareem" style="width: 100%; height: 100%; object-fit: cover;">
-    <p>Kareem Amr</p>
-  </div>
-
-  <div style="width: 240px; height: 350px; overflow: hidden;">
-    <img src="t-photos/عتيلي.jpg" alt="Attili" style="width: 100%; height: 100%; object-fit: cover;">
-    <p>Mohammad Attili</p>
-  </div>
-
-  <div style="width: 240px; height: 350px; overflow: hidden;">
-    <img src="t-photos/1758203185245.jpeg" alt="Osama" style="width: 100%; height: 100%; object-fit: cover;">
-    <p>Osama Jadbah</p>
-  </div>
-
+<div class="gallery-container">
+  <figure>
+    <img src="t-photos/كريم2.jpg" alt="Kareem" />
+    <figcaption>كريم - مبرمج رئيسي</figcaption>
+  </figure>
+  <figure>
+    <img src="t-photos/عتيلي.jpg" alt="Attili" />
+    <figcaption>عتيلي - مهندس أجهزة</figcaption>
+  </figure>
+  <figure>
+    <img src="t-photos/1758203185245.jpeg" alt="Osama" />
+    <figcaption>أسامة - كبير الاستراتيجيين</figcaption>
+  </figure>
 </div>
-
 We are a team of three passionate Palestinian students from Tulkarm Industrial Secondary School, united by our love for programming, artificial intelligence, and problem-solving. Osama Jadbah, an 11th-grade student, focuses on lifelong learning, self-development, and has earned multiple excellence certificates for his achievements. Mohammad Attili, 16, is a competitive programmer who has excelled in national and international contests, showcasing his innovation and tech skills. Kareem Amr, also 16, is a skilled programmer and problem solver, experienced in algorithms and competitive programming, and an accomplished chess player who earned 3rd place in the Palestinian Chess Championship. Together, we strive to develop our skills, tackle challenging projects, and explore new technological horizons.
 
 ## -------------------------------------------------------------------------------------
