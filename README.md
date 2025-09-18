@@ -26,16 +26,16 @@ An autonomous vehicle designed for the Future Engineers category of the WRO 2025
 This repository contains all the engineering materials, code, schematics, and models related to our self-driven vehicle, designed and built to participate in the WRO Future Engineers 2025 competition. The project aims to develop an autonomous vehicle capable of navigating a predefined course while demonstrating precision, stability, and effective control of electromechanical components.
 
 Our vehicle is a compact, versatile model incorporating both mechanical and electronic systems. It is designed to efficiently demonstrate autonomous navigation using sensors, motor control, and a central microcontroller. The design and implementation of this project involved detailed planning, testing, and iterative improvements to meet the strict requirements of the competition.
-## ------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------
 ## Who We Are
 We are a team of three passionate Palestinian students from Tulkarm Industrial Secondary School, united by our love for programming, artificial intelligence, and problem-solving. Osama Jadbah, an 11th-grade student, focuses on lifelong learning, self-development, and has earned multiple excellence certificates for his achievements. Mohammad Attili, 16, is a competitive programmer who has excelled in national and international contests, showcasing his innovation and tech skills. Kareem Amr, also 16, is a skilled programmer and problem solver, experienced in algorithms and competitive programming, and an accomplished chess player who earned 3rd place in the Palestinian Chess Championship. Together, we strive to develop our skills, tackle challenging projects, and explore new technological horizons.
 <p align="center">
-  <img src="t-photos/كريم.jpg" alt="Image 1" width="110"/>
-  <img src="t-photos/عتيلي.jpg" alt="Image 2" width="110"/>
-  <img src="t-photos/اسامة1.jpeg" alt="Image 3" width="110"/>
+  <img src="t-photos/كريم.jpg" alt="Image 1" width="190"/>
+  <img src="t-photos/عتيلي.jpg" alt="Image 2" width="190"/>
+  <img src="t-photos/اسامة1.jpeg" alt="Image 3" width="190"/>
 </p>
 
-## ------------------------------------------------------------------------------------------------------
+## -------------------------------------------------------------------------------------
 ## 🔍 Project Description
 **🎯 Goals**  
 1. Build a functional self-driven vehicle that can navigate a course autonomously.  
@@ -113,7 +113,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
   <img src="v-photos/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
 </p>
 
-## __________________________________________________________________________________
+## -------------------------------------------------------------------------------------
 ## 🎮 The Code 
 
 
