@@ -29,13 +29,23 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 ## -------------------------------------------------------------------------------------
 ## Who We Are
 <p align="center">
-<img src="t-photos/كريم2.jpg" alt="Kareem" width="240" />  
-كريم - مبرمج رئيسي
-<img src="t-photos/عتيلي.jpg" alt="Attili" width="240"/>  
-عتيلي - مهندس أجهزة
-<img src="t-photos/1758203185245.jpeg" alt="Osama" width="240"/>  
-أسامة - كبير الاستراتيجيين
+  <span style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="t-photos/كريم2.jpg" alt="Kareem" width="240" />  
+
+    كريم - مبرمج رئيسي
+  </span>
+  <span style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="t-photos/عتيلي.jpg" alt="Attili" width="240"/>  
+
+    عتيلي - مهندس أجهزة
+  </span>
+  <span style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="t-photos/1758203185245.jpeg" alt="Osama" width="240"/>  
+
+    أسامة - كبير الاستراتيجيين
+  </span>
 </p>
+
 
 <!-- <p align="center">
 <img src="t-photos/كريم2.jpg" alt="Kareem" width="240" />
