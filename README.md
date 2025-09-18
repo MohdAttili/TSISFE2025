@@ -28,7 +28,7 @@ This repository contains all the engineering materials, code, schematics, and mo
 Our vehicle is a compact, versatile model incorporating both mechanical and electronic systems. It is designed to efficiently demonstrate autonomous navigation using sensors, motor control, and a central microcontroller. The design and implementation of this project involved detailed planning, testing, and iterative improvements to meet the strict requirements of the competition.
 ## -------------------------------------------------------------------------------------
 ## Who We Are
-<p align="center">
+<!-- <p align="center">
   <span style="display: inline-block; text-align: center; margin: 10px;">
     <img src="t-photos/كريم2.jpg" alt="Kareem" width="240" />  
 
@@ -44,14 +44,14 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 
     أسامة - كبير الاستراتيجيين
   </span>
-</p>
+</p> -->
 
 
-<!-- <p align="center">
+<p align="center">
 <img src="t-photos/كريم2.jpg" alt="Kareem" width="240" />
 <img src="t-photos/عتيلي.jpg" alt="Attili" width="240"/>
 <img src="t-photos/1758203185245.jpeg" alt="Osama" width=240/>
-</p> -->
+</p>
 
 <!-- <div class="gallery-container">
   <figure>
