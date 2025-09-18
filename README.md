@@ -69,3 +69,25 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 3. Designed for medium-sized LEGO vehicles and robots.
 4. Durable and easy to fit with LEGO axles, providing reliable traction.
 5. Common uses: LEGO Mindstorms robots, Spike Prime projects, and DIY educational builds.
+
+**6. ⚡ GM25 370 Motor Overview**
+1. The GM25 370 is a compact DC geared motor with ~260 RPM at 6V DC.
+2. Provides high torque output, ideal for driving wheels and robotic arms.
+3. Shaft diameter ~4 mm with standard mounting holes for small chassis.
+4. Can include a hall encoder for precise speed/position feedback.
+5. Commonly used in small robots, cars, and DIY mechanical systems.      
+                 
+**7. ⚙️ EV3 Medium Motor Overview**
+
+1. A LEGO Mindstorms motor designed for precise and controlled movement.
+2. Operates at ~255 RPM with medium torque, ideal for steering mechanisms.
+3. Features a built-in rotation sensor for accurate position feedback.
+4. Supports precise angle control (servo-like behavior) and smooth acceleration.
+5. Commonly used in LEGO Technic robots for steering and articulated parts.
+      
+**8. 🧩 EV3 LEGO Technic Set Pieces Overview**
+1. Modular LEGO Technic parts used to build robots, vehicles, and mechanical systems.
+2. Include beams, liftarms, axles, connectors, gears, pulleys, pins, and bushings.
+3. Provide the structural framework and enable integration of motors, sensors, and controllers.
+4. Designed for reusability and compatibility with LEGO EV3 robotics kits.
+5. Commonly used for creating chassis, motion systems, and custom robotic designs.      
