@@ -35,7 +35,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 <img src="t-photos/1758203185245.jpeg" alt="Osama" width=240/>
 </p> -->
 
-<div class="gallery-container">
+<div class="gallery-container,align="center>
   <figure>
     <img src="t-photos/كريم2.jpg" alt="Kareem" />
     <figcaption>كريم - مبرمج رئيسي</figcaption>
