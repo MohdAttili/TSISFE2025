@@ -102,3 +102,6 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
   <img src="v-photos/motor_high_res_dramatic.png" alt="Image 7" width="90"/>
   <img src="v-photos/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
 </p>
+
+## __________________________________________________________________________________
+## 💻 The Code 
