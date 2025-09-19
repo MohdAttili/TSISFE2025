@@ -121,16 +121,8 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 ## -------------------------------------------------------------------------------------
 ## 🎮 The Code 
-
-
-
-
-
-
-
 ## Robot Videos  
 <p align="center">
   <img src="v-photos/طورية22.png" alt="Image 1" width="400"/>
   <img src="v-photos/طورية22.png" alt="Image 2" width="400"/>
 </p>
-
