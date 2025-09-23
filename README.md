@@ -136,7 +136,7 @@ delay(500);
 }
 ```
 <details>
-<summary>إظهار باقي الكود</summary>
+<summary>Show remaining code</summary>
 
 ```cpp
     char getObstcaleColor(){
