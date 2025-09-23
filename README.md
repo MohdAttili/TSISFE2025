@@ -62,12 +62,12 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 4. Features include independent dual motor control, built-in heat sink, and easy interfacing with Arduino, ESP32, and Raspberry Pi.
 5. Commonly used in robotics, motorized DIY projects, and stepper motor control for small CNC machines or 3D printers.
 
-**3. 📏 VL53LXX-V2 (Time-of-Flight Distance Sensor) Overview**     
-1. The VL53L0X/VL53L1X is a Time-of-Flight (ToF) distance sensor that measures distance using laser light.
-2. Measurement range: VL53L0X ~30 mm–2 m, VL53L1X ~30 mm–4 m with typical accuracy ±3%.
-3. Uses I²C interface, supports multiple sensors on the same bus, with power supply 2.6–3.5V.
-4. Features include fast and accurate distance measurement, non-contact sensing, low power consumption, and works in various lighting conditions.
-5. Common applications: robotics obstacle detection, drones, gesture/proximity sensing, level measurement, and automated safety systems.
+**3. 📏 HC-SR04 Ultrasonic Sensor Overview**     
+1. Ultrasonic distance sensor used to measure distances to objects.
+2. Sends ultrasonic waves and calculates the time for echo return.
+3. Affordable, simple, and widely used in robotics and obstacle detection.
+4. Features a simple 4-pin interface: VCC, GND, TRIG, ECHO.
+5. Provides accurate distance measurement (2 cm – 400 cm, ±3 mm).
      
 **4.🎥 Pixy 2.1 (CMUcam5) Overview**
 1. The Pixy 2.1 is a smart vision sensor that detects and tracks objects by color or shape.
@@ -113,7 +113,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
   <img src="v-photos/عجل.png" alt="Image 2" width="90"/>
   <img src="v-photos/ليجو44.png" alt="Image 3" width="90"/>
   <img src="v-photos/ماتور.png" alt="Image 4" width="90"/>
-  <img src="v-photos/vl53lxx_sensor_high_res_dramatic.png" alt="Image 5" width="90"/>
+  <img src="v-photos/vl53lxx_sensor_high_res_dramatic.png" alt="Image 5" width="90"/>--------
   <img src="v-photos/l298n_motor_driver_high_res_dramatic.png" alt="Image 6" width="90"/>
   <img src="v-photos/motor_high_res_dramatic.png" alt="Image 7" width="90"/>
   <img src="v-photos/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
