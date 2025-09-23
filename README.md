@@ -113,7 +113,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
   <img src="v-photos/عجل.png" alt="Image 2" width="90"/>
   <img src="v-photos/ليجو44.png" alt="Image 3" width="90"/>
   <img src="v-photos/ماتور.png" alt="Image 4" width="90"/>
-  <img src="v-photos/التراسونيك.png" alt="Image 5" width="90"/>--------
+  <img src="v-photos/التراسونيك.png" alt="Image 5" width="90"/>
   <img src="v-photos/l298n_motor_driver_high_res_dramatic.png" alt="Image 6" width="90"/>
   <img src="v-photos/motor_high_res_dramatic.png" alt="Image 7" width="90"/>
   <img src="v-photos/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
