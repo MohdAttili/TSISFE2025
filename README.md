@@ -107,7 +107,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 [More Details about the Components](https://github.com/MohdAttili/TSISFE2025/blob/main/models/Selected%20Components.pdf)
 
-[Comparisons with Other Components in the Market](https://github.com/MohdAttili/TSISFE2025/blob/main/models/Component%20Comparison2.pdf) 
+[Comparisons with Other Components in the Market](https://github.com/MohdAttili/TSISFE2025/blob/main/models/Comparison%20with%20Other%20Components.pdf) 
  <p align="center">
   <img src="v-photos/لوحة2.png" alt="Image 1" width="90"/>
   <img src="v-photos/عجل.png" alt="Image 2" width="90"/>
