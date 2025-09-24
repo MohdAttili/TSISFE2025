@@ -2,15 +2,7 @@
 <!-- <p>
   <img src="/other/autonomous_vehicle_software_core.png" alt="Image 8" width="600"/>
       </p> -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="/other/autonomous_vehicle_software_core.png" alt="Image 8" width="300"/>
-    </td>
-    <td width="50%">
-      
-**Cam Test Code**  
-
+| ![Autonomous Vehicle Software Core](/other/autonomous_vehicle_software_core.png) | **Cam Test Code**  
 ```cpp
 #include <Pixy2I2C.h>
 #include <Wire.h>
@@ -37,7 +29,7 @@ char getObstcaleColor(){
             largestIndex = i;
         }
       }
-      
+
       int obstcaleColor = cam.ccc.blocks[largestIndex].m_signature;
       
       if(obstcaleColor == 1||obstcaleColor == 2||obstcaleColor == 3||obstcaleColor == 4){
