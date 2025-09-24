@@ -5,12 +5,11 @@
 <table>
   <tr>
     <td>
-      <img src="../v-photos/طورية22.png" alt="Image 2" width="300"/>
+      <img src="../t-photos/الكل.jpg" alt="Image 2" width="300"/>
     </td>
     <td>
       <p>
-        <a href="![alt text](https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/%D8%A7%D9%84%D9%83%D9%84.jpg)">Comparison Table</a><br>
-       
+        <a href="![alt text](https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/%D8%A7%D9%84%D9%83%D9%84.jpg)">all</a><br>
 </p>
     </td>
   </tr>
