@@ -9,7 +9,7 @@
     </td>
     <td>
       <p>
-        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Component%20Comparison2.pdf">Comparison Table</a><br>
+        <a href="![https://github.com/MohdAttili/TSISFE2025/blob/main/models/Component%20Comparison2.pdf](https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/%D9%83%D8%B1%D9%8A%D9%852.jpg)">Kareem Amr</a><br>
         <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Selected%20Components.pdf">Used Components</a><br>
         <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Pixy2_Cover.stl">Pixy2_Cover.stl</a><br>
         <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/enhanced_holder.stl">enhanced_holder.stl</a><br>
