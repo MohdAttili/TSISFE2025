@@ -9,7 +9,14 @@
     </td>
     <td>
       <p>
-        <a href="![alt text](https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/%D8%A7%D9%84%D9%83%D9%84.jpg)">all</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Component%20Comparison2.pdf">Comparison Table</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Selected%20Components.pdf">Used Components</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Pixy2_Cover.stl">Pixy2_Cover.stl</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/enhanced_holder.stl">enhanced_holder.stl</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/motor%20adapter%20for%20lego.stl">motor adapter for lego</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Gyroscope%20Holder.stl">Gyroscope Holder</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Motor%20Driver%20Case.stl">Motor Driver Case</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Motor%20Driver%20Case%20Cap.stl">Motor Driver Case Cap</a>
 </p>
     </td>
   </tr>
