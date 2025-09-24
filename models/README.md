@@ -4,3 +4,6 @@
 [Pixy2_Cover.stl](https://github.com/MohdAttili/TSISFE2025/blob/main/models/Pixy2_Cover.stl)   
 [enhanced_holder.stl](https://github.com/MohdAttili/TSISFE2025/blob/main/models/enhanced_holder.stl)   
 [motor adapter for lego](https://github.com/MohdAttili/TSISFE2025/blob/main/models/motor%20adapter%20for%20lego.stl)  
+[Gyroscope Holder]()
+[Motor Driver Case]()
+[Motor Driver Case Cap]()
