@@ -8,8 +8,8 @@
 [Motor Driver Case](https://github.com/MohdAttili/TSISFE2025/blob/main/models/Motor%20Driver%20Case.stl)   
 [Motor Driver Case Cap](https://github.com/MohdAttili/TSISFE2025/blob/main/models/Motor%20Driver%20Case%20Cap.stl) -->
 <p align="center">
-  <img src="../v-photos/طورية22.png" alt="Image 2" width="400"/>
-  [Comparison Table](https://github.com/MohdAttili/TSISFE2025/blob/main/models/Component%20Comparison2.pdf)    
+  <img src="../v-photos/طورية22.png" alt="Image 2" width="400"/>   
+  [Comparison Table](https://github.com/MohdAttili/TSISFE2025/blob/main/models/Component%20Comparison2.pdf)   
 [Used Components](https://github.com/MohdAttili/TSISFE2025/blob/main/models/Selected%20Components.pdf)   
 [Pixy2_Cover.stl](https://github.com/MohdAttili/TSISFE2025/blob/main/models/Pixy2_Cover.stl)   
 [enhanced_holder.stl](https://github.com/MohdAttili/TSISFE2025/blob/main/models/enhanced_holder.stl)   
