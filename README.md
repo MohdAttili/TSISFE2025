@@ -31,7 +31,7 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
 ## Who We Are
 
 <p align="center">
-<img src="t-photos/karem.jpg" alt="Kareem" width="240"height="250" />
+<img src="t-photos/karem1.jpg" alt="Kareem" width="240"height="250" />
 <img src="t-photos/attili.jpg" alt="Attili" width="240"/>
 <img src="t-photos/osama1.jpeg" alt="Osama" width=240/>
 </p>
