@@ -182,19 +182,6 @@ delay(500);
 </details>
 
 ```cpp
-#include <Pixy2I2C.h>
-#include <Wire.h>
-
-Pixy2I2C cam;
-
-void setup() {
-Serial.begin(115200);
-Wire.begin(21, 22); 
-cam.init();
-delay(500);
-}
-
-```cpp
 
     // Ultrasonic Sensor Pins
     const int TRIG1 = 27;
@@ -212,6 +199,24 @@ delay(500);
     void setup() {
     Serial.begin(115200);
     
+```cpp
+
+    // Ultrasonic Sensor Pins
+    const int TRIG1 = 27;
+    const int ECHO1 = 14;
+
+    const int TRIG2 = 12;
+    const int ECHO2 = 13;
+
+    const int TRIG3 = 2;
+    const int ECHO3 = 15;
+
+    // Sensor names
+    String sensorNames[] = {"Sensor 1", "Sensor 2", "Sensor 3"};
+
+    void setup() {
+    Serial.begin(115200);
+ ```   
 <details>
 <summary>Show remaining code</summary>
 
