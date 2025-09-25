@@ -182,9 +182,21 @@ delay(500);
 </details>
 
 ```cpp
+#include <Pixy2I2C.h>
+#include <Wire.h>
 
+Pixy2I2C cam;
 
-// Ultrasonic Sensor Pins
+void setup() {
+Serial.begin(115200);
+Wire.begin(21, 22); 
+cam.init();
+delay(500);
+}
+
+```cpp
+
+    // Ultrasonic Sensor Pins
     const int TRIG1 = 27;
     const int ECHO1 = 14;
 
@@ -199,8 +211,10 @@ delay(500);
 
     void setup() {
     Serial.begin(115200);
-    <details>
+    
+<details>
 <summary>Show remaining code</summary>
+
 ```cpp
 
 
@@ -265,27 +279,9 @@ delay(500);
     } else {
         Serial.println("Out of range");
     }
-        // Test Sensor 3
-    long dist3 = getDistance(TRIG3, ECHO3);
-    Serial.print(sensorNames[2] + ": ");
-    if (dist3 > 0 && dist3 < 400) {
-        Serial.print(dist3);
-        Serial.println(" cm");
-    } else {
-        Serial.println("Out of range");
-    }
-    
-    Serial.println("---------------------");
-    }
-
-    void loop() {
-    testAllSensors();
-    delay(1000); // Wait 1 second between readings
-    }
+  
 ```
 </details>
-
-```cpp
 
 ## Robot Videos  
 <p align="center">
