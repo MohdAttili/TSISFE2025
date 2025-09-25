@@ -198,9 +198,11 @@ delay(500);
 
     void setup() {
     Serial.begin(115200);
-    
-```cpp
+ ```   
+<details>
+<summary>Show remaining code</summary>
 
+```cpp
     // Ultrasonic Sensor Pins
     const int TRIG1 = 27;
     const int ECHO1 = 14;
@@ -216,11 +218,7 @@ delay(500);
 
     void setup() {
     Serial.begin(115200);
- ```   
-<details>
-<summary>Show remaining code</summary>
 
-```cpp
 
 
     // Initialize trigger pins as outputs
