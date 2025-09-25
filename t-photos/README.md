@@ -5,14 +5,14 @@
 <table>
   <tr>
     <td>
-      <img src="../t-photos/الكل.jpg" alt="Image 2" width="300"/>
+      <img src="../t-photos/all.jpg" alt="Image 2" width="300"/>
     </td>
     <td>
       <p>
         <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/Team%20Description.pdf">Team Description</a><br>
-        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/%D9%83%D8%B1%D9%8A%D9%852.jpg">Kareem Amr</a><br>
-        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/%D8%A7%D8%B3%D8%A7%D9%85%D8%A91.jpeg">Osama Husam</a><br>
-        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/%D8%B9%D8%AA%D9%8A%D9%84%D9%8A.jpg">Mohammad Attili</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/karem1.jpg">Kareem Amr</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/osama1.jpeg">Osama Husam</a><br>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/t-photos/attili.jpg">Mohammad Attili</a><br>
 </p>
     </td>
   </tr>
