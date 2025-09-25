@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td>
-      <img src="../v-photos/طورية22.png" alt="Image 2" width="300"/>
+      <img src="../v-photos/tureah.png" alt="Image 2" width="300"/>
     </td>
     <td>
       <p>
