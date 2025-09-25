@@ -181,6 +181,112 @@ delay(500);
 ```
 </details>
 
+```cpp
+
+
+// Ultrasonic Sensor Pins
+    const int TRIG1 = 27;
+    const int ECHO1 = 14;
+
+    const int TRIG2 = 12;
+    const int ECHO2 = 13;
+
+    const int TRIG3 = 2;
+    const int ECHO3 = 15;
+
+    // Sensor names
+    String sensorNames[] = {"Sensor 1", "Sensor 2", "Sensor 3"};
+
+    void setup() {
+    Serial.begin(115200);
+    <details>
+<summary>Show remaining code</summary>
+```cpp
+
+
+    // Initialize trigger pins as outputs
+    pinMode(TRIG1, OUTPUT);
+    pinMode(TRIG2, OUTPUT);
+    pinMode(TRIG3, OUTPUT);
+    
+    // Initialize echo pins as inputs
+    pinMode(ECHO1, INPUT);
+    pinMode(ECHO2, INPUT);
+    pinMode(ECHO3, INPUT);
+    
+    // Ensure triggers are low
+    digitalWrite(TRIG1, LOW);
+    digitalWrite(TRIG2, LOW);
+    digitalWrite(TRIG3, LOW);
+    
+    Serial.println("ESP32 Ultrasonic Sensor Test");
+    Serial.println("=============================");
+    delay(100);
+    }
+
+    long getDistance(int trigPin, int echoPin) {
+    digitalWrite(trigPin, LOW);
+    delayMicroseconds(2);
+    
+    // Send 10 microsecond pulse
+    digitalWrite(trigPin, HIGH);
+    delayMicroseconds(10);
+    digitalWrite(trigPin, LOW);
+    
+    // Read the echo pulse duration
+    long duration = pulseIn(echoPin, HIGH, 30000); // 30ms timeout (~5m range)
+    
+    // Calculate distance in cm
+    long distance = duration * 0.034 / 2;
+    
+    return distance;
+    }
+
+    void testAllSensors() {
+    Serial.println("\nTesting all sensors...");
+    Serial.println("---------------------");
+    
+    // Test Sensor 1
+    long dist1 = getDistance(TRIG1, ECHO1);
+    Serial.print(sensorNames[0] + ": ");
+    if (dist1 > 0 && dist1 < 400) {
+        Serial.print(dist1);
+        Serial.println(" cm");
+    } else {
+        Serial.println("Out of range");
+    }
+    
+    // Test Sensor 2
+    long dist2 = getDistance(TRIG2, ECHO2);
+    Serial.print(sensorNames[1] + ": ");
+    if (dist2 > 0 && dist2 < 400) {
+        Serial.print(dist2);
+        Serial.println(" cm");
+    } else {
+        Serial.println("Out of range");
+    }
+        // Test Sensor 3
+    long dist3 = getDistance(TRIG3, ECHO3);
+    Serial.print(sensorNames[2] + ": ");
+    if (dist3 > 0 && dist3 < 400) {
+        Serial.print(dist3);
+        Serial.println(" cm");
+    } else {
+        Serial.println("Out of range");
+    }
+    
+    Serial.println("---------------------");
+    }
+
+    void loop() {
+    testAllSensors();
+    delay(1000); // Wait 1 second between readings
+    }
+```
+</details>
+
+```cpp
+
 ## Robot Videos  
 <p align="center">
   <img src="v-photos/طورية22.png" alt="Image 1" width="400"/>
