@@ -181,6 +181,7 @@ delay(500);
 ```
 </details>
 
+**Ultrasonic Sensor Code**
 ```cpp
 
     // Ultrasonic Sensor Pins
