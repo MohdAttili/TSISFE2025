@@ -110,11 +110,11 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 [Comparisons with Other Components in the Market](https://github.com/MohdAttili/TSISFE2025/blob/main/other/Comparison%20with%20Other%20Components.pdf) 
  <p align="center">
-  <img src="v-photos/لوحة2.png" alt="Image 1" width="90"/>
-  <img src="v-photos/عجل.png" alt="Image 2" width="90"/>
-  <img src="v-photos/ليجو44.png" alt="Image 3" width="90"/>
-  <img src="v-photos/ماتور.png" alt="Image 4" width="90"/>
-  <img src="v-photos/التراسونيك.png" alt="Image 5" width="90"/>
+  <img src="v-photos/ESP32-WROOM-32.png" alt="Image 1" width="90"/>
+  <img src="v-photos/LEGO Wheel Ø56 with Medium Azure Tire.png" alt="Image 2" width="90"/>
+  <img src="v-photos/EV3 LEGO Technic Set Pieces.png" alt="Image 3" width="90"/>
+  <img src="v-photos/GM25 370 Motor.png" alt="Image 4" width="90"/>
+  <img src="v-photos/HC-SR04 Ultrasonic Sensor.png" alt="Image 5" width="90"/>
   <img src="v-photos/l298n_motor_driver_high_res_dramatic.png" alt="Image 6" width="90"/>
   <img src="v-photos/motor_high_res_dramatic.png" alt="Image 7" width="90"/>
   <img src="v-photos/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
@@ -455,6 +455,6 @@ void decreaseSpeed() {
 
 ## Robot Videos  
 <p align="center">
-  <img src="v-photos/طورية22.png" alt="Image 1" width="400"/>
-  <img src="v-photos/طورية22.png" alt="Image 2" width="400"/>
+  <img src="v-photos/tureah.png" alt="Image 1" width="400"/>
+  <img src="v-photos/tureah.png" alt="Image 2" width="400"/>
 </p>
