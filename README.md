@@ -41,15 +41,15 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
   <tr>
     <td align="center">
       <img src="/t-photos/osama1.jpeg" alt="From the right" width="240"height="250"/><br>
-      osama husam
+      Osama Jadbah
     </td>
     <td align="center">
       <img src="/t-photos/attili.jpg" alt="From the left" width="240"height="250"/><br>
-      attili
+      Mohammad Attili
     </td>
     <td align="center">
       <img src="/t-photos/karem1.jpg" alt="From the left" width="240"height="250"/><br>
-      attili
+      Kareem Amr
     </td>    
   </tr>
 </table>
@@ -472,7 +472,19 @@ void decreaseSpeed() {
 </details>
 
 ## Robot Videos  
-<p align="center">
+<!-- <p align="center">
   <img src="v-photos/tureah.png" alt="Image 1" width="400"/>
   <img src="v-photos/tureah.png" alt="Image 2" width="400"/>
-</p>
+</p> -->
+<table border="1">
+  <tr>
+    <td align="center">
+      <img src="/v-photos/from the front..png" alt="From the right" width="400"height="250"/><br>  
+      vehicle video  
+    </td>
+    <td align="center">
+      <img src="/v-photos/from the front..png" alt="From the left" width="400"height="250"/><br>
+      vehicle video
+    </td>  
+  </tr>
+</table>
