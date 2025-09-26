@@ -7,8 +7,13 @@
 
 <table border="1">
   <tr>
-    <td>
-      <img src="/v-photos/from the right.png" alt="Image 2" width="300"/>
+    <td align="center">
+      <img src="/v-photos/from the right.png" alt="From the right" width="300"/><br>
+      من اليمين
+    </td>
+    <td align="center">
+      <img src="/v-photos/from the left.png" alt="From the left" width="300"/><br>
+      من اليسار
     </td>
   </tr>
 </table>
