@@ -9,11 +9,9 @@
   <tr>
     <td align="center">
       <img src="/v-photos/from the right.png" alt="From the right" width="300"/><br>
-      من اليمين
     </td>
     <td align="center">
       <img src="/v-photos/from the left.png" alt="From the left" width="300"/><br>
-      من اليسار
     </td>
   </tr>
 </table>
