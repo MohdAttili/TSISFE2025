@@ -9,7 +9,7 @@
 
 ## Vehicle Preview
 <p align="center">
-<img src="v-photos/from the front..png" alt="Vehicle Photo" width="500"/>
+<img src="v-photos/from the top.png" alt="Vehicle Photo" width="500"/>
 </p>
 
 ---
