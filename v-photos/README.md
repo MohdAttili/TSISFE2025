@@ -12,8 +12,7 @@
     </td>
     <td>
       <p>
-          <a href=      <img src="/v-photos/from the right.png" alt="Image 2" width="300">
-        </a><br>
+          <a img src="/v-photos/from the right.png" alt="Image 2" width="300"></a><br>
         <!-- <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/enhanced_holder.stl">enhanced_holder.stl</a><br>
         <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/motor%20adapter%20for%20lego.stl">motor adapter for lego</a><br>
         <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Gyroscope%20Holder.stl">Gyroscope Holder</a><br>
