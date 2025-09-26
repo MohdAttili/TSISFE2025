@@ -8,8 +8,9 @@
 ---
 
 ## Vehicle Preview
-
+<p align="center">
 <img src="v-photos/robot_no_background.png" alt="Vehicle Photo" width="500"/>
+</p>
 
 ---
 An autonomous vehicle designed for the Future Engineers category of the WRO 2025 that uses computer vision and IMU sensors to navigate complex environments and avoid obstacles intelligently.
