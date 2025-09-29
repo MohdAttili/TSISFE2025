@@ -31,7 +31,7 @@
         <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Gyroscope%20Holder.stl">Gyroscope Holder</a><br>
         <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Motor%20Driver%20Case.stl">Motor Driver Case</a><br>
         <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Motor%20Driver%20Case%20Cap.stl">Motor Driver Case Cap</a>
-        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Motor%20Driver%20Case%20Cap.stl">motor adapter for lego</a>
+        <a href="https://github.com/MohdAttili/TSISFE2025/blob/main/models/Servo%20to%20lego%20adapter.stl">motor adapter for lego</a>
       </p>
     </td>
   </tr>
