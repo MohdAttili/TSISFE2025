@@ -473,7 +473,7 @@ void decreaseSpeed() {
 
 ## --------------------------------------------------------------------------------------
 
-**Open Chalenge**
+**Open Challenge**
 ```cpp
 
 #include <ESP32Servo.h>
@@ -777,32 +777,12 @@ void loop() {
 ```
 </details>
 
-
-
-
-
 ## Robot Videos  
-<!-- <p align="center">
-  <img src="v-photos/tureah.png" alt="Image 1" width="400"/>
-  <img src="v-photos/tureah.png" alt="Image 2" width="400"/>
-</p> -->
-<!-- <table border="1">
-  <tr>
-    <td align="center">
-      <img src="/v-photos/from the front..png" alt="From the right" width="400"height="250"/><br>  
-      https://youtu.be/iTNFESk9kuE?feature=shared
-    </td>
-    <td align="center">
-      <img src="/v-photos/from the front..png" alt="From the left" width="400"height="250"/><br>
-      vehicle video
-    </td>  
-  </tr>
-</table> -->
 <table border="1">
   <tr>
     <td align="center">
       <img src="/v-photos/from the front..png" alt="From the right" width="400" height="250"/><br>  
-      <a href="https://youtu.be/iTNFESk9kuE?feature=shared" target="_blank">Open</a>
+      <a href="https://youtu.be/iTNFESk9kuE?feature=shared" target="_blank">Open Challenge</a>
     </td>
     <td align="center">
       <img src="/v-photos/from the front..png" alt="From the left" width="400" height="250"/><br>
