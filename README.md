@@ -785,7 +785,7 @@ void loop() {
     </td>
     <td align="center">
       <img src="/v-photos/from the front..png" alt="From the left" width="400" height="250"/><br>
-      Vehicle video
+      <a href="-----------------" target="_blank">Obstacle Challenge</a>
     </td>  
   </tr>
 </table>
