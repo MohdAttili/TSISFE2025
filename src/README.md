@@ -417,6 +417,12 @@ const int servoPin = 13;
 #define MOTOR1_IN2 5
 #define MOTOR1_ENA 16
 
+ ```   
+<details>
+<summary>Show remaining code</summary>
+
+```cpp
+
 NewPing sonar_left(US_LEFT_TRIG, US_LEFT_ECHO, MAX_DISTANCE);
 NewPing sonar_front(US_FRONT_TRIG, US_FRONT_ECHO, MAX_DISTANCE);
 NewPing sonar_right(US_RIGHT_TRIG, US_RIGHT_ECHO, MAX_DISTANCE);
@@ -438,11 +444,6 @@ int16_t read16(int addr) {
   value = (Wire.read() << 8) | Wire.read();
   return value;
 }
- ```   
-<details>
-<summary>Show remaining code</summary>
-
-```cpp
 void calibrateGyro(int samples = 200) {
   long sumX = 0, sumY = 0, sumZ = 0;
   for (int i = 0; i < samples; i++) {
