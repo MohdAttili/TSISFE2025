@@ -29,7 +29,7 @@ This repository contains all the engineering materials, code, schematics, and mo
 
 Our vehicle is a compact, versatile model incorporating both mechanical and electronic systems. It is designed to efficiently demonstrate autonomous navigation using sensors, motor control, and a central microcontroller. The design and implementation of this project involved detailed planning, testing, and iterative improvements to meet the strict requirements of the competition.
 ## -------------------------------------------------------------------------------------
-## while TUREAH
+## While TUREAH
 
 **Our team is called "TUREAH" after the farming tool, symbolizing hard work, perseverance, and the ability to overcome obstacles. Just like the tool prepares the soil for growth, our team paves the way for success. 🌱**
 ## -------------------------------------------------------------------------------------
