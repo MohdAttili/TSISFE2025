@@ -14,8 +14,6 @@
 
 ---
 An autonomous vehicle designed for the Future Engineers category of the WRO 2025 that uses computer vision and IMU sensors to navigate complex environments and avoid obstacles intelligently.
-## -------------------------------------------------------------------------------------
-**Our team is called "TUREAH" after the farming tool, symbolizing hard work, perseverance, and the ability to overcome obstacles. Just like the tool prepares the soil for growth, our team paves the way for success. 🌱**
 
 ## Content Structure
 
@@ -31,6 +29,9 @@ This repository contains all the engineering materials, code, schematics, and mo
 
 Our vehicle is a compact, versatile model incorporating both mechanical and electronic systems. It is designed to efficiently demonstrate autonomous navigation using sensors, motor control, and a central microcontroller. The design and implementation of this project involved detailed planning, testing, and iterative improvements to meet the strict requirements of the competition.
 ## -------------------------------------------------------------------------------------
+**Our team is called "TUREAH" after the farming tool, symbolizing hard work, perseverance, and the ability to overcome obstacles. Just like the tool prepares the soil for growth, our team paves the way for success. 🌱**
+## -------------------------------------------------------------------------------------
+
 ## Who We Are
 
 <!-- <p align="center">
