@@ -47,14 +47,21 @@ Our vehicle is a compact, versatile model incorporating both mechanical and elec
     <td align="center">
       <img src="/t-photos/osama1.jpeg" alt="From the right" width="240"height="250"/><br>
       Osama Jadbah
+      Planning 
+      Research
+      Documentation
     </td>
     <td align="center">
       <img src="/t-photos/attili.jpg" alt="From the left" width="240"height="250"/><br>
       Mohammad Attili
+      Hardware 
+      Software 
     </td>
     <td align="center">
       <img src="/t-photos/karem1.jpg" alt="From the left" width="240"height="250"/><br>
       Kareem Amr
+      Mechanical Design 
+      Algorithms
     </td>    
   </tr>
 </table>
