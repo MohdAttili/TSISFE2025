@@ -102,15 +102,14 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 4. Durable and easy to fit with LEGO axles, providing reliable traction.
 5. Common uses: LEGO Mindstorms robots, Spike Prime projects, and DIY educational builds.
 
-**6. ⚡ GM25 370 Motor Overview**
-1. The GM25 370 is a compact DC geared motor with ~260 RPM at 6V DC.
-2. Provides high torque output, ideal for driving wheels and robotic arms.
-3. Shaft diameter ~4 mm with standard mounting holes for small chassis.
-4. Can include a hall encoder for precise speed/position feedback.
-5. Commonly used in small robots, cars, and DIY mechanical systems.      
-                 
-**7. ⚙️ EV3 Medium Motor Overview**
+**6. ⚡ HS-558HV Servo Overview**
+1. The HS-558HV is a high-voltage digital servo with fast response and strong torque.
+2. Operates at 6.0–7.4V and provides 12.4–14.5 kg·cm torque, ideal for steering and robotic arms.\
+3. Uses a coreless motor with durable metal gears for smooth, precise motion.
+4. Controlled via standard PWM for accurate angle positioning.
+5. Commonly used in RC cars, airplanes, robots, and projects requiring strength and accuracy.
 
+**7. ⚙️ EV3 Medium Motor Overview**
 1. A LEGO Mindstorms motor designed for precise and controlled movement.
 2. Operates at ~255 RPM with medium torque, ideal for steering mechanisms.
 3. Features a built-in rotation sensor for accurate position feedback.
@@ -134,7 +133,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
   <img src="v-photos/GM25 370 Motor.png" alt="Image 4" width="90"/>
   <img src="v-photos/HC-SR04 Ultrasonic Sensor.png" alt="Image 5" width="90"/>
   <img src="v-photos/l298n_motor_driver_high_res_dramatic.png" alt="Image 6" width="90"/>
-  <img src="v-photos/motor_high_res_dramatic.png" alt="Image 7" width="90"/>
+  <img src="v-photos/corona_servo_high_res_dramatic.png" alt="Image 7" width="90"/>
   <img src="v-photos/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
 </p>
 
@@ -309,7 +308,7 @@ delay(500);
 
 ## --------------------------------------------------------------------------------------
 
-**Sensor Testing Code**
+**Motor Testing Code**
 ```cpp
 // Motor Control Pins
 #define ENA 16    // PWM pin for speed control
