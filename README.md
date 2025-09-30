@@ -483,7 +483,7 @@ void decreaseSpeed() {
 
 ## --------------------------------------------------------------------------------------
 
-**Open Challenge**
+**open challenge v1.0**
 ```cpp
 #include <ESP32Servo.h>
 #include <Arduino.h>
