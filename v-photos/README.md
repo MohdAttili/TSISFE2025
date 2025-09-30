@@ -8,10 +8,10 @@
 <table border="1">
   <tr>
     <td align="center">
-      <img src="/v-photos/from the right.png" alt="From the right" width="300"/><br>
+      <img src="/v-photos//Robot pictures/from the right.png" alt="From the right" width="300"/><br>
     </td>
     <td align="center">
-      <img src="/v-photos/from the left.png" alt="From the left" width="300"/><br>
+      <img src="/v-photos//Robot pictures/from the left.png" alt="From the left" width="300"/><br>
     </td>
   </tr>
 </table>

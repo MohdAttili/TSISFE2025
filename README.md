@@ -9,7 +9,7 @@
 
 ## Vehicle Preview
 <p align="center">
-<img src="v-photos/from the top.png" alt="Vehicle Photo" width="500"/>
+<img src="v-photos//Robot pictures/from the top.png" alt="Vehicle Photo" width="500"/>
 </p>
 
 ---
@@ -138,14 +138,14 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 
 [Comparisons with Other Components in the Market](https://github.com/MohdAttili/TSISFE2025/blob/main/other/Comparison%20with%20Other%20Components.pdf) 
  <p align="center">
-  <img src="v-photos/ESP32-WROOM-32.png" alt="Image 1" width="90"/>
-  <img src="v-photos/LEGO Wheel Ø56 with Medium Azure Tire.png" alt="Image 2" width="90"/>
-  <img src="v-photos/EV3 LEGO Technic Set Pieces.png" alt="Image 3" width="90"/>
-  <img src="v-photos/GM25 370 Motor.png" alt="Image 4" width="90"/>
-  <img src="v-photos/HC-SR04 Ultrasonic Sensor.png" alt="Image 5" width="90"/>
-  <img src="v-photos/l298n_motor_driver_high_res_dramatic.png" alt="Image 6" width="90"/>
-  <img src="v-photos/corona_servo_high_res_dramatic.png" alt="Image 7" width="90"/>
-  <img src="v-photos/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
+  <img src="v-photos//Robot parts/ESP32-WROOM-32.png" alt="Image 1" width="90"/>
+  <img src="v-photos//Robot parts/LEGO Wheel Ø56 with Medium Azure Tire.png" alt="Image 2" width="90"/>-------------------
+  <img src="v-photos//Robot parts/EV3 LEGO Technic Set Pieces.png" alt="Image 3" width="90"/>
+  <img src="v-photos//Robot parts/GM25 370 Motor.png" alt="Image 4" width="90"/>
+  <img src="v-photos//Robot parts/HC-SR04 Ultrasonic Sensor.png" alt="Image 5" width="90"/>
+  <img src="v-photos//Robot parts/l298n_motor_driver_high_res_dramatic.png" alt="Image 6" width="90"/>
+  <img src="v-photos//Robot parts/corona_servo_high_res_dramatic.png" alt="Image 7" width="90"/>
+  <img src="v-photos//Robot parts/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
 </p>
 
 ## -------------------------------------------------------------------------------------
@@ -793,11 +793,11 @@ void loop() {
 <table border="1">
   <tr>
     <td align="center">
-      <img src="/v-photos/from the front..png" alt="From the right" width="400" height="250"/><br>  
+      <img src="/v-photos//Robot pictures/from the front..png" alt="From the right" width="400" height="250"/><br>  
       <a href="https://www.youtube.com/watch?v=o4WLXlrJdUM" target="_blank">Open Challenge</a>
     </td>
     <td align="center">
-      <img src="/v-photos/from the front..png" alt="From the left" width="400" height="250"/><br>
+      <img src="/v-photos//Robot pictures/from the front..png" alt="From the left" width="400" height="250"/><br>
       <a href="Not ready yet" target="_blank">Obstacle Challenge</a>
     </td>  
   </tr>
