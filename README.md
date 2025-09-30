@@ -794,7 +794,7 @@ void loop() {
   <tr>
     <td align="center">
       <img src="/v-photos/from the front..png" alt="From the right" width="400" height="250"/><br>  
-      <a href="https://youtu.be/zuTk4BsJP6E?feature=shared" target="_blank">Open Challenge</a>
+      <a href="https://www.youtube.com/watch?v=o4WLXlrJdUM" target="_blank">Open Challenge</a>
     </td>
     <td align="center">
       <img src="/v-photos/from the front..png" alt="From the left" width="400" height="250"/><br>
