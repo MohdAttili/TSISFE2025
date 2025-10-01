@@ -113,12 +113,12 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
 4. Durable and easy to fit with LEGO axles, providing reliable traction.
 5. Common uses: LEGO Mindstorms robots, Spike Prime projects, and DIY educational builds.
 
-**6. ⚡ HS-558HV Servo Overview**
-1. The HS-558HV is a high-voltage digital servo with fast response and strong torque.
-2. Operates at 6.0–7.4V and provides 12.4–14.5 kg·cm torque, ideal for steering and robotic arms.\
-3. Uses a coreless motor with durable metal gears for smooth, precise motion.
-4. Controlled via standard PWM for accurate angle positioning.
-5. Commonly used in RC cars, airplanes, robots, and projects requiring strength and accuracy.
+**6. ⚡ MG996R Servo Overview**
+1. High-torque digital servo with reliable performance and precise positioning.   
+2. Operating Voltage: 4.8–6.0V DC, providing ~9.4–11 kg·cm torque.     
+3. Applications: Suitable for steering, robotic arms, and hobby projects.   
+4. Motor & Gears: Coreless motor with durable metal gears for smooth, accurate motion.   
+4. Control & Integration: Controlled via standard PWM; compatible with Arduino, Raspberry Pi, and robotics kits.   
 
 **7. ⚙️ EV3 Medium Motor Overview**
 1. A LEGO Mindstorms motor designed for precise and controlled movement.
