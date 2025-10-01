@@ -144,7 +144,7 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
   <img src="v-photos//Robot parts/GM25 370 Motor.png" alt="Image 4" width="90"/>
   <img src="v-photos//Robot parts/HC-SR04 Ultrasonic Sensor.png" alt="Image 5" width="90"/>
   <img src="v-photos//Robot parts/l298n_motor_driver_high_res_dramatic.png" alt="Image 6" width="90"/>
-  <img src="v-photos//Robot parts/corona_servo_high_res_dramatic.png" alt="Image 7" width="90"/>
+  <img src="v-photos//Robot parts/mg996r_servo_high_res_dramatic.png" alt="Image 7" width="90"/>
   <img src="v-photos//Robot parts/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
 </p>
 
