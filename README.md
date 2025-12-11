@@ -147,7 +147,21 @@ We are a team of three passionate Palestinian students from Tulkarm Industrial S
   <img src="v-photos//Robot parts/mg996r_servo_high_res_dramatic.png" alt="Image 7" width="90"/>
   <img src="v-photos//Robot parts/pixy_camera_high_res_dramatic.png" alt="Image 8" width="90"/>
 </p>
-
+Esp32 wroom 32-d *1
+ ESP Shield *1 
+TOF 200C *1 
+TOF 400c *3 
+Xh Connectors 
+4.3’ oled display  *2
+ Jga52-370 12V Motor *1
+ Mg996R Servo *1 
+AUG 22 Wires
+ L298N Motor Driver *1
+ Metal Gear set 
+M3 Screws
+ M4 screws 
+Pixy2 cam *1 
+MPU6050 Gyroscope*1
 ## -------------------------------------------------------------------------------------
 ## 🎮 The Code 
 **Cam Test Code**
